@@ -1,1 +1,13 @@
 # spotify
+
+This document outlines Spotify's core features from a minimal viable product perspective.
+
+1. **Music catalog** - Access to a set of songs that users can stream on demand.
+2. **Search** - Ability to find music by song, artist, or album.
+3. **Playback** - Basic controls to play, pause, and skip tracks.
+4. **Playlists** - Users can create and manage custom playlists.
+5. **Accounts** - Simple logins to keep playlists and preferences in sync.
+
+These essentials form the MVP foundation, providing enough value to attract early users while leaving room for future improvements.
+
+A small command-line prototype lives in `mvp_spotify.py`. Run it with `python mvp_spotify.py` to explore these MVP features locally.
